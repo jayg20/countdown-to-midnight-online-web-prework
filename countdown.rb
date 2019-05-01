@@ -5,8 +5,7 @@ def countdown
   number -= 1
   break if number == 0
 end
-
-"HAPPY NEW YEAR!"
+ puts "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep 
