@@ -2,6 +2,7 @@ number = 12
 def countdown
   puts "#{number} SECONDS(S)"
   while number > 0
+  number +=
   break if number == 0
 end
 
